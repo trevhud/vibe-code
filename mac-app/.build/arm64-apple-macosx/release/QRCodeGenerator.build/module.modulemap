@@ -1,0 +1,4 @@
+module QRCodeGenerator {
+    header "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/QRCodeGenerator.build/QRCodeGenerator-Swift.h"
+    requires objc
+}

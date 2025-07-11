@@ -1,0 +1,342 @@
+{
+  "": {
+    "dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Crypto.d",
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Crypto.o",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/master.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/AES-GCM.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES-GCM.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES-GCM~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES-GCM.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/BoringSSL/AES-GCM_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES-GCM_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES-GCM_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES-GCM_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/BoringSSL/ChaChaPoly_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ChaChaPoly_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ChaChaPoly_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ChaChaPoly_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/ChaChaPoly.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ChaChaPoly.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ChaChaPoly~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ChaChaPoly.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Cipher.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Cipher.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Cipher~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Cipher.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Nonces.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Nonces.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Nonces~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Nonces.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ASN1.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Any.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Any.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Any~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Any.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1BitString.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1BitString.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1BitString~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1BitString.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Boolean.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Boolean.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Boolean~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Boolean.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Identifier.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Identifier.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Identifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Identifier.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Integer.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Integer.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Integer~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Integer.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Null.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Null.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Null~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Null.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1OctetString.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1OctetString.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1OctetString~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1OctetString.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Strings.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Strings.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Strings~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ASN1Strings.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ArraySliceBigint.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ArraySliceBigint.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ArraySliceBigint~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ArraySliceBigint.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/GeneralizedTime.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/GeneralizedTime.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/GeneralizedTime~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/GeneralizedTime.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ObjectIdentifier.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ObjectIdentifier.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ObjectIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ObjectIdentifier.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ECDSASignature.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSASignature.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSASignature~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSASignature.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PEMDocument.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PEMDocument.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PEMDocument~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PEMDocument.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PKCS8PrivateKey.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PKCS8PrivateKey.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PKCS8PrivateKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PKCS8PrivateKey.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SEC1PrivateKey.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SEC1PrivateKey.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SEC1PrivateKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SEC1PrivateKey.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SubjectPublicKeyInfo.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SubjectPublicKeyInfo.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SubjectPublicKeyInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SubjectPublicKeyInfo.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/CryptoKitErrors.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/CryptoKitErrors.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/CryptoKitErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/CryptoKitErrors.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Digests/BoringSSL/Digest_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digest_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digest_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digest_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digest.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digest.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digest~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digest.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digests.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digests.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digests~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Digests.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HashFunctions.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HashFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HashFunctions.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA2.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HashFunctions_SHA2.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HashFunctions_SHA2~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HashFunctions_SHA2.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Insecure.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Insecure~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Insecure.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure_HashFunctions.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Insecure_HashFunctions.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Insecure_HashFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Insecure_HashFunctions.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/BoringSSL/ECDH_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDH_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDH_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDH_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/DH.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/DH.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/DH~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/DH.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/ECDH.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDH.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDH~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDH.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Key Derivation/HKDF.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HKDF.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HKDF~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HKDF.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/AESWrap.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AESWrap.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AESWrap~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AESWrap.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/BoringSSL/AESWrap_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AESWrap_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AESWrap_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AESWrap_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Ed25519_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Ed25519_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Ed25519_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurvePoint_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EllipticCurvePoint_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EllipticCurvePoint_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EllipticCurvePoint_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurve_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EllipticCurve_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EllipticCurve_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EllipticCurve_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/NISTCurvesKeys_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/NISTCurvesKeys_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/NISTCurvesKeys_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/X25519Keys_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/X25519Keys_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/X25519Keys_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Curve25519.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Curve25519~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Curve25519.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Ed25519.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Ed25519~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Ed25519.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/NISTCurvesKeys.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/NISTCurvesKeys~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/NISTCurvesKeys.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/X25519Keys.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/X25519Keys~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/X25519Keys.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SymmetricKeys.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SymmetricKeys~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SymmetricKeys.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/HMAC/HMAC.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HMAC.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HMAC~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/HMAC.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MACFunctions.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/MACFunctions.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/MACFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/MACFunctions.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MessageAuthenticationCode.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/MessageAuthenticationCode.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/MessageAuthenticationCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/MessageAuthenticationCode.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/PRF/AES.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/AES.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSASignature_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSASignature_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSASignature_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSASignature_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSA_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSA_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSA_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSA_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/EdDSA_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EdDSA_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EdDSA_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EdDSA_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/ECDSA.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSA.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSA~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ECDSA.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/EdDSA.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EdDSA.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EdDSA~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/EdDSA.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/Signature.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Signature.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Signature~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Signature.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/ArbitraryPrecisionInteger_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ArbitraryPrecisionInteger_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ArbitraryPrecisionInteger_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/ArbitraryPrecisionInteger_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/CryptoKitErrors_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/CryptoKitErrors_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/CryptoKitErrors_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/CryptoKitErrors_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/FiniteFieldArithmeticContext_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/FiniteFieldArithmeticContext_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/FiniteFieldArithmeticContext_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/FiniteFieldArithmeticContext_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/RNG_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/RNG_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/RNG_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/SafeCompare_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SafeCompare_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SafeCompare_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SafeCompare_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Zeroization_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Zeroization_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Zeroization_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Zeroization_boring.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/PrettyBytes.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PrettyBytes.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PrettyBytes~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/PrettyBytes.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/SafeCompare.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SafeCompare.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SafeCompare~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SafeCompare.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/SecureBytes.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SecureBytes.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SecureBytes~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/SecureBytes.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/Crypto/Util/Zeroization.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Zeroization.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Zeroization~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/Crypto.build/Zeroization.swiftdeps"
+  }
+}

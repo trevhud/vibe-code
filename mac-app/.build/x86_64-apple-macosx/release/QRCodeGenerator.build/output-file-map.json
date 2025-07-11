@@ -1,0 +1,47 @@
+{
+  "": {
+    "dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeGenerator.d",
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeGenerator.o",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/master.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/BitBuffer.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/BitBuffer.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/BitBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/BitBuffer.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCode.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCode.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCode.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeConstants.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeConstants.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeConstants.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeECC.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeECC.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeECC~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeECC.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeError.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeError.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeError~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeError.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeMask.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeMask.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeMask~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeMask.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeVersion.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeVersion.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeVersion~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRCodeVersion.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRSegment.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRSegment.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRSegment~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/QRCodeGenerator.build/QRSegment.swiftdeps"
+  }
+}

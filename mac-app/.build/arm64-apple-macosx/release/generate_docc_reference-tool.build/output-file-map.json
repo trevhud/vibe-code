@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/generate_docc_reference.d",
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/generate_docc_reference.o",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/master.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Tools/generate-docc-reference/Extensions/ArgumentParser+Markdown.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/ArgumentParser+Markdown.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/ArgumentParser+Markdown~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/ArgumentParser+Markdown.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Tools/generate-docc-reference/Extensions/Process+SimpleAPI.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/Process+SimpleAPI.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/Process+SimpleAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/Process+SimpleAPI.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Tools/generate-docc-reference/GenerateDoccReference.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/GenerateDoccReference.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/GenerateDoccReference~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/generate_docc_reference-tool.build/GenerateDoccReference.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module _CryptoExtras {
+    header "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/_CryptoExtras.build/_CryptoExtras-Swift.h"
+    requires objc
+}

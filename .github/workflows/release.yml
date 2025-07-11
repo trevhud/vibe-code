@@ -1,0 +1,136 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-and-release:
+    runs-on: macos-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Swift
+      uses: swift-actions/setup-swift@v1
+      with:
+        swift-version: '5.9'
+        
+    - name: Build for ARM64
+      run: |
+        cd mac-app
+        swift build -c release --arch arm64
+        
+    - name: Build for x86_64
+      run: |
+        cd mac-app
+        swift build -c release --arch x86_64
+        
+    - name: Create release packages
+      run: |
+        mkdir -p dist/releases
+        
+        # Copy binaries with rename
+        cp mac-app/.build/arm64-apple-macosx/release/vibe-code dist/vibe-code
+        tar -czf dist/releases/vibe-code-macos-arm64.tar.gz -C dist vibe-code
+        
+        cp mac-app/.build/x86_64-apple-macosx/release/vibe-code dist/vibe-code
+        tar -czf dist/releases/vibe-code-macos-x64.tar.gz -C dist vibe-code
+        
+        # Generate checksums
+        cd dist/releases
+        shasum -a 256 *.tar.gz > checksums.txt
+        
+    - name: Extract version
+      id: version
+      run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+      
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          dist/releases/vibe-code-macos-arm64.tar.gz
+          dist/releases/vibe-code-macos-x64.tar.gz
+          dist/releases/checksums.txt
+        body: |
+          ## Vibe Code ${{ steps.version.outputs.VERSION }}
+          
+          Continue your Claude Code conversations seamlessly from Mac to iPhone.
+          
+          ### Installation
+          ```bash
+          brew tap trevhud/vibe-code
+          brew install vibe-code
+          vibe-code setup
+          ```
+          
+          ### What's New
+          - Per-folder Claude Code sessions
+          - iPhone app with QR code setup
+          - Tailscale integration for global access
+          - Real-time conversation sync
+          
+          ### Files
+          - `vibe-code-macos-arm64.tar.gz` - Apple Silicon Macs (M1/M2/M3)
+          - `vibe-code-macos-x64.tar.gz` - Intel Macs
+          - `checksums.txt` - SHA256 verification
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Update Homebrew Formula
+      run: |
+        # Extract SHA256 hashes
+        ARM64_SHA=$(grep arm64 dist/releases/checksums.txt | cut -d' ' -f1)
+        X64_SHA=$(grep x64 dist/releases/checksums.txt | cut -d' ' -f1)
+        VERSION=${{ steps.version.outputs.VERSION }}
+        
+        # Create updated formula
+        cat > homebrew-setup/Formula/vibe-code.rb << EOF
+        class VibeCode < Formula
+          desc "Seamlessly continue Claude Code conversations on your iPhone"
+          homepage "https://github.com/trevhud/vibe-code"
+          version "${VERSION#v}"
+
+          if OS.mac?
+            if Hardware::CPU.arm?
+              url "https://github.com/trevhud/vibe-code/releases/download/${VERSION}/vibe-code-macos-arm64.tar.gz"
+              sha256 "${ARM64_SHA}"
+            else
+              url "https://github.com/trevhud/vibe-code/releases/download/${VERSION}/vibe-code-macos-x64.tar.gz"
+              sha256 "${X64_SHA}"
+            end
+          end
+
+          depends_on "tailscale"
+          depends_on "tmux"
+
+          def install
+            bin.install "vibe-code"
+          end
+
+          def post_install
+            puts "🎉 Vibe Code installed successfully!"
+            puts ""
+            puts "Next steps:"
+            puts "1. Run 'vibe-code setup' to configure your system"
+            puts "2. Download Vibe Code from the App Store on your iPhone"
+            puts "3. Follow the setup guide: https://github.com/trevhud/vibe-code#setup"
+          end
+
+          test do
+            assert_match "vibe-code", shell_output("#{bin}/vibe-code --version")
+          end
+        end
+        EOF
+        
+    - name: Commit updated formula
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add homebrew-setup/Formula/vibe-code.rb
+        git commit -m "Update Homebrew formula for ${{ steps.version.outputs.VERSION }}" || exit 0
+        git push || exit 0

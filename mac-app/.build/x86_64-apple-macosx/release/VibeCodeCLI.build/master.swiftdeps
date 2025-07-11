@@ -1,0 +1,11 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "4ec3cbe9057fca3db2406e263875ae8c1a3a3803d07a6c3c3050f361f0dcabc0"
+build_start_time: [1752185099, 705249000]
+build_end_time: [1752185101, 743627000]
+inputs:
+  "/Users/trevhud/Code/vibe-code/mac-app/Sources/VibeCodeCLI/ConnectionManager.swift": [1752178984, 713447664]
+  "/Users/trevhud/Code/vibe-code/mac-app/Sources/VibeCodeCLI/HealthMonitor.swift": [1752182477, 368196131]
+  "/Users/trevhud/Code/vibe-code/mac-app/Sources/VibeCodeCLI/ProcessRunner.swift": [1752172909, 946035677]
+  "/Users/trevhud/Code/vibe-code/mac-app/Sources/VibeCodeCLI/SessionManager.swift": [1752178929, 107055890]
+  "/Users/trevhud/Code/vibe-code/mac-app/Sources/VibeCodeCLI/SetupManager.swift": [1752178938, 538877724]
+  "/Users/trevhud/Code/vibe-code/mac-app/Sources/VibeCodeCLI/main.swift": [1752178959, 922613139]

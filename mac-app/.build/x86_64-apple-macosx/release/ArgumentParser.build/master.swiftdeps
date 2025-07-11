@@ -1,0 +1,87 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "dea3dabf49dc42ee1c7dc2f2714ab6afd18a692aa19a4978f32080ea16d5e4e8"
+build_start_time: [1752185094, 365101000]
+build_end_time: [1752185099, 634204000]
+inputs:
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift"
+  : [1752185079, 431725343]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift"
+  : [1752185079, 431834927]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift"
+  : [1752185079, 431951177]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift"
+  : [1752185079, 432074802]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift"
+  : [1752185079, 436269852]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentDiscussion.swift"
+  : [1752185079, 436411560]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift"
+  : [1752185079, 436463394]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentVisibility.swift"
+  : [1752185079, 436514352]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift"
+  : [1752185079, 436638602]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift"
+  : [1752185079, 436686936]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift"
+  : [1752185079, 436758727]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift"
+  : [1752185079, 436873019]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift"
+  : [1752185079, 436923603]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift"
+  : [1752185079, 437048145]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/AsyncParsableCommand.swift"
+  : [1752185079, 437270520]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift"
+  : [1752185079, 437392229]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandGroup.swift"
+  : [1752185079, 437436104]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift"
+  : [1752185079, 437485896]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift"
+  : [1752185079, 437592771]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift"
+  : [1752185079, 437715854]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift"
+  : [1752185079, 437830355]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift"
+  : [1752185079, 437965563]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift"
+  : [1752185079, 438102063]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift": [1752185079, 438175189]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift": [1752185079, 438248355]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputKey.swift": [1752185079, 438304772]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift": [1752185079, 438351939]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift": [1752185079, 438397564]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift": [1752185079, 438445397]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift": [1752185079, 438491564]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift": [1752185079, 438539106]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift": [1752185079, 438614065]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/DumpHelpGenerator.swift"
+  : [1752185079, 438761231]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift": [1752185079, 438807357]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift": [1752185079, 438868065]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift": [1752185079, 438986315]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift": [1752185079, 439046232]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/CollectionExtensions.swift"
+  : [1752185079, 439139315]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Mutex.swift": [1752185079, 439204066]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Platform.swift": [1752185079, 439316774]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift"
+  : [1752185079, 439363608]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift"
+  : [1752185079, 439480483]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SwiftExtensions.swift"
+  : [1752185079, 439535816]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift": [1752185079, 439599566]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/CodingKeyValidator.swift"
+  : [1752185079, 439683066]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/NonsenseFlagsValidator.swift"
+  : [1752185079, 439730983]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/ParsableArgumentsValidation.swift"
+  : [1752185079, 439789275]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/PositionalArgumentsValidator.swift"
+  : [1752185079, 439841859]
+  ? "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/UniqueNamesValidator.swift"
+  : [1752185079, 439895400]

@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/CryptoBoringWrapper.d",
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/CryptoBoringWrapper.o",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/master.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/CryptoBoringWrapper/AEAD/BoringSSLAEAD.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/BoringSSLAEAD.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/BoringSSLAEAD~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/BoringSSLAEAD.swiftdeps"
+  },
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-crypto/Sources/CryptoBoringWrapper/CryptoKitErrors_boring.swift": {
+    "object": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/CryptoKitErrors_boring.swift.o",
+    "swiftmodule": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/CryptoKitErrors_boring~partial.swiftmodule",
+    "swift-dependencies": "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/CryptoBoringWrapper.build/CryptoKitErrors_boring.swiftdeps"
+  }
+}

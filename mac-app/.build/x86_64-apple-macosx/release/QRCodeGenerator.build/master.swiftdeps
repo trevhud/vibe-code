@@ -1,0 +1,13 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "8927b16892b32679856609475633aab551b34ff39e849919e48fa2b85e9a8037"
+build_start_time: [1752185093, 513865000]
+build_end_time: [1752185095, 823184000]
+inputs:
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/BitBuffer.swift": [1752185079, 508965490]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCode.swift": [1752185079, 509214241]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeConstants.swift": [1752185079, 509324574]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeECC.swift": [1752185079, 509460282]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeError.swift": [1752185079, 509531283]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeMask.swift": [1752185079, 509585491]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRCodeVersion.swift": [1752185079, 509629741]
+  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-qrcode-generator/Sources/QRCodeGenerator/QRSegment.swift": [1752185079, 509744366]
