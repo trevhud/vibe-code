@@ -1,4 +1,0 @@
-module VibeCodeCLIPackageTests {
-    header "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/VibeCodeCLIPackageTests.build/VibeCodeCLIPackageTests-Swift.h"
-    requires objc
-}

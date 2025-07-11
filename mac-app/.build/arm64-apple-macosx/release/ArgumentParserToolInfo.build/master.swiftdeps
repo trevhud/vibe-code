@@ -1,6 +1,0 @@
-version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
-options: "66098b0a5ca1ac2a42257f3b8ecf946d21f2d71975518c2005c833be405e06fb"
-build_start_time: [1752185082, 634997000]
-build_end_time: [1752185083, 429983000]
-inputs:
-  "/Users/trevhud/Code/vibe-code/mac-app/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": [1752185079, 440350693]

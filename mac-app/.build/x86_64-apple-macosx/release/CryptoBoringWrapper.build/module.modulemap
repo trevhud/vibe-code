@@ -1,4 +1,0 @@
-module CryptoBoringWrapper {
-    header "/Users/trevhud/Code/vibe-code/mac-app/.build/x86_64-apple-macosx/release/CryptoBoringWrapper.build/CryptoBoringWrapper-Swift.h"
-    requires objc
-}

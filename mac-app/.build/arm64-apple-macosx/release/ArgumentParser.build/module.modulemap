@@ -1,4 +1,0 @@
-module ArgumentParser {
-    header "/Users/trevhud/Code/vibe-code/mac-app/.build/arm64-apple-macosx/release/ArgumentParser.build/ArgumentParser-Swift.h"
-    requires objc
-}
