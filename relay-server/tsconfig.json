@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/json-schema-07",
+  "compilerOptions": {
+    "lib": ["es2024"],
+    "module": "nodenext",
+    "target": "es2022",
+    "moduleResolution": "nodenext",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "declaration": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "sourceMap": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

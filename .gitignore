@@ -1,0 +1,56 @@
+# Build artifacts
+.build/
+*/.build/
+dist/
+*.xcodeproj
+*.xcworkspace
+
+# Homebrew setup (separate repository)
+homebrew-setup/
+
+# macOS
+.DS_Store
+
+# Xcode
+UserInterfaceState.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+
+# Dependencies
+Packages/
+Package.resolved
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets (in case any get created)
+*.plist
+!Info.plist
+
+# Temporary files
+*.tmp
+*.temp
+
+# Dependencies
+node_modules/
+
+# Environment
+.env*
+
+# iOS/Mac
+*.ipa
+*.dSYM.zip
+*.dSYM/
+DerivedData/
+Pods/
+*.p12
+*.mobileprovision
+*.pem
+*.key
+
+# IDE/editor
+.claude/settings.local.jsonenv
