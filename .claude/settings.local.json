@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "Bash(npm view:*)",
+      "Bash(npm pack:*)",
+      "Bash(npm run typecheck:*)",
+      "Bash(xcodebuild build:*)",
+      "Bash(curl:*)",
+      "mcp__brightdata__scrape_batch",
+      "Bash(gh api:*)",
+      "mcp__brightdata__scrape_as_markdown",
+      "Bash(npx tsc:*)",
+      "Bash(xcrun devicectl device install app:*)",
+      "Bash(xcrun devicectl device process launch:*)",
+      "Bash(xargs:*)"
+    ]
+  }
+}
