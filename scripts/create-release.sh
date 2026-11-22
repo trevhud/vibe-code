@@ -44,7 +44,7 @@ tar -czf "dist/releases/vibe-code-macos-x64.tar.gz" -C dist vibe-code
 # Generate checksums
 echo "🔐 Generating checksums..."
 cd dist/releases
-shasum -a 256 *.tar.gz > checksums.txt
+shasum -a 256 -- *.tar.gz > checksums.txt
 cd ../..
 
 # Extract SHA256 hashes for formula
@@ -70,7 +70,8 @@ class VibeCode < Formula
     end
   end
 
-  depends_on "tailscale"
+  # Tailscale is not a formula dependency: \`vibe-code setup\` uses whichever
+  # tailscale is on PATH and installs one only when none is found.
   depends_on "tmux"
 
   def install
